@@ -1,0 +1,19 @@
+
+// ----header----
+@media (max-width:991px){
+    .html{
+        left: 0;
+    }
+}
+
+
+// -----circle----
+@media (max-width:768px){
+   
+    .circle-img{
+        position: inherit;
+    }
+    .circle-img img{
+        width: 100% !important;
+    }
+}
